@@ -1,0 +1,1 @@
+## Site for testing combination of JWT role based access control with JWS in a single rule
