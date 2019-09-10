@@ -2,6 +2,5 @@
   from = "/api/stores/*"
   to = "https://www.whatismybrowser.com/detect/what-http-headers-is-my-browser-sending"
   status = 200
-  conditions = {Role = ["admin"]}
   force = true
   signed = "API_SIGNATURE_TOKEN"
